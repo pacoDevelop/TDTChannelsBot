@@ -1,21 +1,46 @@
-[{
-	"key": [
-	"descargar la apk",
-    	"pasar la apk",
-    	"pasa la apk",
-    	"pasad la apk"
-	],
-	"value": [
-		"Aquí puedes encontrar la última versión de la aplicación para android www.tdtchannels.com/android"
-	]
-}, {
-	"key": [
-	"descargar la app",
-    	"pasar la app",
-        "pasa la app",
-    	"pasad la app"
-	],
-	"value": [
-		"Aquí puedes encontrar la última versión de la aplicación para distintas plataformas www.tdtchannels.com"
-	]
-}]
+[
+  {
+    "key": [
+      "bot responde apk",
+      "bot responde android"
+    ],
+    "value": [
+      "Aquí puedes encontrar la última versión de la aplicación para Android https://www.tdtchannels.com/android. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
+    ]
+  },
+  {
+    "key": [
+      "bot responde ios"
+    ],
+    "value": [
+      "Aquí puedes encontrar la última versión de la aplicación para iOS https://www.tdtchannels.com/iphone. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
+    ]
+  },
+  {
+    "key": [
+      "bot responde otras plataformas"
+    ],
+    "value": [
+      "Aquí puedes encontrar la última versión de la aplicación para distintas plataformas https://www.tdtchannels.com/otrasplataformas"
+    ]
+  },
+  {
+    "key": [
+      "bot responde problema mediaset",
+      "bot responde problema atresmedia"
+    ],
+    "value": [
+      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar http://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
+    ]
+  },
+  {
+    "key": [
+      "bot responde estado listas",        
+      "bot responde estado plataformas",        
+      "bot responde estado emisiones"
+    ],
+    "value": [
+      "Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar http://tdtchannels.com/status."
+    ]
+  }
+]
