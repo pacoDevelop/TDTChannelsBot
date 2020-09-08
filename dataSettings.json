@@ -1,4 +1,5 @@
 {
 	"welcome": " Bienvenido, $name(@$alias).Para una buena convivencia y el bienestar del grupo quedará silenciado durante $block_s segundos, dispondrá de toda la información en el anclado o usando la lupa para buscar su pregunta.Una vez pasado el tiempo indicado anteriormente se le permitirá enviar mensajes.\n\nLee detenidamente y no te precipites en formular preguntas ya contestadas o temas ilegales.",
-	"block_s": 40
+	"block_s": 40,
+	"deleteWelcome": 3
 }
