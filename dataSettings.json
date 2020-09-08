@@ -1,5 +1,5 @@
 {
-  "welcome": " Bienvenido, $name(@$alias).Para una buena convivencia y el bienestar del grupo quedará silenciado durante $muteNewUserSeconds segundos, dispondrá de toda la información en el anclado o usando la lupa para buscar su pregunta.Una vez pasado el tiempo indicado anteriormente se le permitirá enviar mensajes.\n\nLee detenidamente y no te precipites en formular preguntas ya contestadas o temas ilegales.",
-  "muteNewUserSeconds": 40,
+  "welcome": " Bienvenido $name (@$alias) a TDTChannels.\nEl grupo oficial del proyecto libre y gratuito TDTChannels. Canales de televisión, y radio, que se emiten en abierto por Internet. 100% abierto, 100% legal. Especialmente enfocado a España, y canales internacionales de gran audiencia.\n\nRevisa el anclado para más información del proyecto, así como de donde sacar la URL de la lista y EPG, aplicación Android, y la Wiki de ayuda del proyecto. Seguro que la pregunta que puedes tener ya está ahí respondida.\n\n Es gratuito y sin publicidad, si te es útil puedes colaborar con el proyecto, aportando enlaces, corrigiendo fallos o realizando una donación... Gracias!\n\nEn $muteNewUserSeconds segundos podrás escribir aquí. Mientras tanto, puedes leer el anclado para más información, está situado en la parte superior de la pantalla. Y si tienes alguna duda, puedes utilizar el buscador, situado arriba a la derecha",
+  "muteNewUserSeconds": 59,
   "deleteWelcomeMinutes": 3
 }
