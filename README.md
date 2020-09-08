@@ -1,5 +1,5 @@
 # TDTChannelsBot
-Bot de telegram para administración. Este BOT se encarga de dar respuesta a las preguntas más comunes en [TDTChannels]().
+Bot de telegram para administración. Este BOT se encarga de dar respuesta a las preguntas más comunes en [TDTChannels](https://github.com/pacoDevelop/TDTChannelsBot/blob/master/data.json).
 
 ## Cómo colaborar.
 
