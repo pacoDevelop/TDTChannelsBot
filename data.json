@@ -1,5 +1,5 @@
 [
-    {
+  {
     "key": [
       "bot responde anclado"
     ],
@@ -18,7 +18,8 @@
   },
   {
     "key": [
-      "bot responde ios"
+      "bot responde ios",
+      "bot responde iphone"
     ],
     "value": [
       "Aquí puedes encontrar la última versión de la aplicación para iOS https://www.tdtchannels.com/iphone. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
@@ -26,8 +27,7 @@
   },
   {
     "key": [
-      "bot responde otras plataformas",
-      "bot responde app"
+      "bot responde otras plataformas"
     ],
     "value": [
       "Aquí puedes encontrar la última versión de la aplicación para distintas plataformas https://www.tdtchannels.com/otrasplataformas"
@@ -35,21 +35,45 @@
   },
   {
     "key": [
-      "bot responde problema mediaset",
-      "bot responde problema atresmedia"
+      "bot responde mediaset",
+      "bot responde atresmedia"
     ],
     "value": [
-      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar http://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
+      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
     ]
   },
   {
     "key": [
-      "bot responde estado listas",        
-      "bot responde estado plataformas",        
+      "bot responde estado listas",
+      "bot responde estado plataformas",
       "bot responde estado emisiones"
     ],
     "value": [
-      "Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar http://tdtchannels.com/status."
+      "Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar https://tdtchannels.com/status."
+    ]
+  },
+  {
+    "key": [
+      "bot responde android vacia"
+    ],
+    "value": [
+      "Revisa que no esté activado el modo Favoritos (el corazón en la barra superior debe estar desmarcado). Si el problema persiste, desinstala e instala la aplicación de nuevo."
+    ]
+  },
+  {
+    "key": [
+      "bot responde iphone vacia"
+    ],
+    "value": [
+      "Revisa la URL insertada en la aplicación. Más información acerca de las listas en https://www.tdtchannels.com/listas."
+    ]
+  },
+  {
+    "key": [
+      "bot responde peticion"
+    ],
+    "value": [
+      "Las peticiones para añadir nuevas emisoras y/o canales deben realizarse en https://www.tdtchannels.com/peticion. De esta forma podemos canalizar el trabajo en TDTChannels.\nNo damos respuestas a las peticiones, si una semana después de hacerla, no aparece, puedes escribirnos por privado para consultar motivos."
     ]
   }
 ]
