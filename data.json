@@ -9,6 +9,15 @@
   },
   {
     "key": [
+      "bot responde lista",
+      "bot responde listas"
+    ],
+    "value": [
+      "Aquí puedes encontrar las listas del proyecto https://www.tdtchannels.com/listas, junto a una explicación para qué sirve cada una.\nRecordamos que la mejor forma de visualizar los canales del proyecto es a través de las aplicaciones oficiales para Android https://www.tdtchannels.com/android y iPhone https://www.tdtchannels.com/iphone."
+    ]
+  },
+  {
+    "key": [
       "bot responde apk",
       "bot responde android"
     ],
@@ -35,21 +44,21 @@
   },
   {
     "key": [
-      "bot responde mediaset",
-      "bot responde atresmedia"
-    ],
-    "value": [
-      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
-    ]
-  },
-  {
-    "key": [
       "bot responde estado listas",
       "bot responde estado plataformas",
       "bot responde estado emisiones"
     ],
     "value": [
       "Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar https://tdtchannels.com/status."
+    ]
+  },
+  {
+    "key": [
+      "bot responde mediaset",
+      "bot responde atresmedia"
+    ],
+    "value": [
+      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
     ]
   },
   {
