@@ -5,7 +5,8 @@
     ],
     "value": [
       "61705"
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -14,7 +15,8 @@
     ],
     "value": [
       "Aquí puedes encontrar las listas del proyecto https://www.tdtchannels.com/listas, junto a una explicación para qué sirve cada una.\nRecordamos que la mejor forma de visualizar los canales del proyecto es a través de las aplicaciones oficiales para Android https://www.tdtchannels.com/android y iPhone https://www.tdtchannels.com/iphone."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -23,7 +25,8 @@
     ],
     "value": [
       "Aquí puedes encontrar la última versión de la aplicación para Android https://www.tdtchannels.com/android. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -32,7 +35,8 @@
     ],
     "value": [
       "Aquí puedes encontrar la última versión de la aplicación para iOS https://www.tdtchannels.com/iphone. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -40,7 +44,8 @@
     ],
     "value": [
       "Aquí puedes encontrar la última versión de la aplicación para distintas plataformas https://www.tdtchannels.com/otrasplataformas"
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -50,7 +55,8 @@
     ],
     "value": [
       "Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar https://tdtchannels.com/status."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -59,7 +65,8 @@
     ],
     "value": [
       "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -67,7 +74,8 @@
     ],
     "value": [
       "Revisa que no esté activado el modo Favoritos (el corazón en la barra superior debe estar desmarcado). Si el problema persiste, desinstala e instala la aplicación de nuevo."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -75,7 +83,8 @@
     ],
     "value": [
       "Revisa la URL insertada en la aplicación. Más información acerca de las listas en https://www.tdtchannels.com/listas."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -83,7 +92,8 @@
     ],
     "value": [
       "Las peticiones para añadir nuevas emisoras y/o canales deben realizarse en https://www.tdtchannels.com/peticion. De esta forma podemos canalizar el trabajo en TDTChannels.\nNo damos respuestas a las peticiones, si una semana después de hacerla no aparece, puedes escribirnos por privado para consultar motivos. En caso de poseer los derechos de emisión, escríbenos un email a hola@tdtchannels.com, gracias!"
-    ]
+    ],
+    "shouldDeleteProvoker":true
   },
   {
     "key": [
@@ -91,6 +101,7 @@
     ],
     "value": [
       "El mensaje anterior ha sido borrado automáticamente por no cumplir las normas del grupo. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
-    ]
+    ],
+    "shouldDeleteProvoker":true
   }
 ]
