@@ -102,6 +102,6 @@
     "value": [
       "El mensaje anterior ha sido borrado automáticamente por no cumplir las normas del grupo. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
     ],
-    "shouldDeleteProvoker":true
+    "shouldDeleteProvoker":false
   }
 ]
