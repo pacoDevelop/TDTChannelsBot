@@ -103,5 +103,14 @@
       "El mensaje anterior ha sido borrado automáticamente por no cumplir las normas del grupo. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
     ],
     "shouldDeleteProvoker":true
+  },
+  {
+    "key": [
+      "ten","dmax","dkiss","bomcine","bom cine","8madrid","barça tv"
+    ],
+    "value": [
+      "Hola, has mencionado un canal que no emite en abierto por Internet. Aunque emite en la TDT Española. Lamentablemente al no emitir en abierto por Internet no puede estar incluído en el proyecto. Revisa www.tdtchannels.com/status para más información. Gracias."
+    ],
+    "shouldDeleteProvoker":false
   }
 ]
