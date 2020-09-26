@@ -96,13 +96,21 @@
     "shouldDeleteProvoker":true
   },
   {
-    "key": [
-      "laliga","movistar","dazn","photocall","f1","motos"
-    ],
-    "value": [
-      "El mensaje anterior ha sido borrado automáticamente por no cumplir las normas del grupo. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
-    ],
-    "shouldDeleteProvoker":true
+    "key":[
+      "laliga","movistar","dazn","photocall","f1","motos","toros","syfy","dark"
+   ],
+   "value":[
+      "Se ha detectado un posible mensaje que incumple normas. Reporte enviado a los administradores. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
+   ],
+   "shouldDeleteProvoker":false,
+   "shouldWaitForAdmin":true,
+   "extraInfo":{
+      "waitForAdmin":{
+         "waitMessage":"¿Eliminar mensaje?",
+         "deleteMessage":"Eliminar",
+         "maintainMessage":"Mantener"
+      }
+   }
   },
   {
     "key": [
