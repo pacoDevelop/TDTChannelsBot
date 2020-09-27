@@ -1,124 +1,127 @@
 [
-  {
-    "key": [
-      "bot responde anclado"
-    ],
-    "value": [
-      "61705"
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde lista",
-      "bot responde listas"
-    ],
-    "value": [
-      "Aquí puedes encontrar las listas del proyecto https://www.tdtchannels.com/listas, junto a una explicación para qué sirve cada una.\nRecordamos que la mejor forma de visualizar los canales del proyecto es a través de las aplicaciones oficiales para Android https://www.tdtchannels.com/android y iPhone https://www.tdtchannels.com/iphone."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde apk",
-      "bot responde android"
-    ],
-    "value": [
-      "Aquí puedes encontrar la última versión de la aplicación para Android https://www.tdtchannels.com/android. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde ios",
-      "bot responde iphone"
-    ],
-    "value": [
-      "Aquí puedes encontrar la última versión de la aplicación para iOS https://www.tdtchannels.com/iphone. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde otras plataformas"
-    ],
-    "value": [
-      "Aquí puedes encontrar la última versión de la aplicación para distintas plataformas https://www.tdtchannels.com/otrasplataformas"
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde estado listas",
-      "bot responde estado plataformas",
-      "bot responde estado emisiones"
-    ],
-    "value": [
-      "Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar https://tdtchannels.com/status."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde mediaset",
-      "bot responde atresmedia"
-    ],
-    "value": [
-      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde android vacia"
-    ],
-    "value": [
-      "Revisa que no esté activado el modo Favoritos (el corazón en la barra superior debe estar desmarcado). Si el problema persiste, desinstala e instala la aplicación de nuevo."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde iphone vacia"
-    ],
-    "value": [
-      "Revisa la URL insertada en la aplicación. Más información acerca de las listas en https://www.tdtchannels.com/listas."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key": [
-      "bot responde peticion"
-    ],
-    "value": [
-      "Gracias por sugerir un canal a TDTChannels!\nLas peticiones para añadir nuevas emisoras y/o canales deben realizarse en https://www.tdtchannels.com/peticion. Antes de realizarla por favor comprueba que el canal emita en abierto, de forma legal, y que no esté ya en el proyecto. De esta forma podemos canalizar el trabajo en TDTChannels.\nNo damos respuestas a las peticiones, si una semana después de hacerla no aparece, puedes escribirnos por privado para consultar motivos."
-    ],
-    "shouldDeleteProvoker":true
-  },
-  {
-    "key":[
-      "laliga","movistar","dazn","photocall","f1","motos","toros","syfy","dark"
-   ],
-   "value":[
-      "Se ha detectado un posible mensaje que incumple normas. Reporte enviado a los administradores. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
-   ],
-   "shouldDeleteProvoker":false,
-   "shouldWaitForAdmin":true,
-   "extraInfo":{
-      "waitForAdmin":{
-         "waitMessage":"¿Eliminar mensaje?",
-         "deleteMessage":"Eliminar",
-         "maintainMessage":"Mantener"
+   {
+      "key":[
+         "bot responde anclado"
+      ],
+      "value":[
+         "61705"
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde lista",
+         "bot responde listas"
+      ],
+      "value":[
+         "Aquí puedes encontrar las listas del proyecto https://www.tdtchannels.com/listas, junto a una explicación para qué sirve cada una.\nRecordamos que la mejor forma de visualizar los canales del proyecto es a través de las aplicaciones oficiales para Android https://www.tdtchannels.com/android y iPhone https://www.tdtchannels.com/iphone.\n Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar https://tdtchannels.com/status."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde apk",
+         "bot responde android"
+      ],
+      "value":[
+         "Aquí puedes encontrar la última versión de la aplicación para Android https://www.tdtchannels.com/android. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde ios",
+         "bot responde iphone"
+      ],
+      "value":[
+         "Aquí puedes encontrar la última versión de la aplicación para iOS https://www.tdtchannels.com/iphone. Recuerda seguir los pasos de la instalación indicados en la web para una correcta instalación."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde otras plataformas"
+      ],
+      "value":[
+         "Aquí puedes encontrar la última versión de la aplicación para distintas plataformas https://www.tdtchannels.com/otrasplataformas"
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde mediaset",
+         "bot responde atresmedia"
+      ],
+      "value":[
+         "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde android vacia"
+      ],
+      "value":[
+         "Revisa que no esté activado el modo Favoritos (el corazón en la barra superior debe estar desmarcado). Si el problema persiste, desinstala e instala la aplicación de nuevo."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde iphone vacia"
+      ],
+      "value":[
+         "Revisa la URL insertada en la aplicación. Más información acerca de las listas en https://www.tdtchannels.com/listas."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "bot responde peticion"
+      ],
+      "value":[
+         "Gracias por sugerir un canal a TDTChannels!\nLas peticiones para añadir nuevas emisoras y/o canales deben realizarse en https://www.tdtchannels.com/peticion. Antes de realizarla por favor comprueba que el canal emita en abierto, de forma legal, y que no esté ya en el proyecto (https://github.com/LaQuay/TDTChannels/blob/master/peticiones.md). De esta forma podemos canalizar el trabajo en TDTChannels.\nNo damos respuestas a las peticiones, si una semana después de hacerla no aparece, puedes escribirnos por privado para consultar motivos."
+      ],
+      "shouldDeleteProvoker":true
+   },
+   {
+      "key":[
+         "laliga",
+         "movistar",
+         "dazn",
+         "photocall",
+         "f1",
+         "motos",
+         "toros",
+         "syfy",
+         "dark"
+      ],
+      "value":[
+         "Se ha detectado un posible mensaje que incumple normas. Reporte enviado a los administradores. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
+      ],
+      "shouldDeleteProvoker":false,
+      "shouldWaitForAdmin":true,
+      "extraInfo":{
+         "waitForAdmin":{
+            "waitMessage":"¿Eliminar mensaje?",
+            "deleteMessage":"Eliminar",
+            "maintainMessage":"Mantener"
+         }
       }
+   },
+   {
+      "key":[
+         "canalten",
+         "dmax",
+         "dkiss",
+         "bomcine",
+         "8madrid",
+         "barçatv",
+         "barcatv"
+      ],
+      "value":[
+         "Hola, has mencionado un canal que no emite en abierto por Internet. Aunque emite en la TDT Española. Lamentablemente al no emitir en abierto por Internet no puede estar incluído en el proyecto. Revisa www.tdtchannels.com/status para más información. Gracias."
+      ],
+      "shouldDeleteProvoker":false
    }
-  },
-  {
-    "key": [
-      "canalten","dmax","dkiss","bomcine","8madrid","barçatv","barcatv"
-    ],
-    "value": [
-      "Hola, has mencionado un canal que no emite en abierto por Internet. Aunque emite en la TDT Española. Lamentablemente al no emitir en abierto por Internet no puede estar incluído en el proyecto. Revisa www.tdtchannels.com/status para más información. Gracias."
-    ],
-    "shouldDeleteProvoker":false
-  }
 ]
