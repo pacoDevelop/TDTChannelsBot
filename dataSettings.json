@@ -2,5 +2,6 @@
   "welcome": "Bienvenida/o $name (@$alias) a TDTChannels.\nEl grupo oficial del proyecto libre y gratuito TDTChannels. Canales de televisión, y radio, que se emiten en abierto por Internet. 100% abierto, 100% legal, 100% gratis. Enfocado al territorio Español y canales internacionales de gran audiencia.\n\nRevisa el anclado para más información del proyecto, así como de donde sacar la dirección URL de la lista y EPG, aplicación Android o iOS y la Wiki de ayuda del proyecto. Seguro que la pregunta que puedes tener ya está ahí.\n\nEl proyecto es totalmente gratuito y sin publicidad, si te es útil puedes colaborar con el proyecto, aportando enlaces, corrigiendo fallos, realizando una donación, o cualquier acción que consideres... Gracias!\n\nEn $muteNewUserSeconds segundos podrás escribir aquí. Mientras tanto, puedes leer el anclado para tener más información, está situado en la parte superior de la pantalla. Si tienes alguna duda, puedes utilizar el buscador, situado arriba a la derecha.\n\n¡A disfrutar del proyecto!",
   "muteNewUserSeconds": 60,
   "deleteWelcomeMinutes": 3,
-  "discussionTimeMinutes": 10
+  "discussionTimeMinutes": 10,
+  "eliminateLimitVote": 2
 }
