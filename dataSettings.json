@@ -3,5 +3,5 @@
   "muteNewUserSeconds": 60,
   "deleteWelcomeMinutes": 3,
   "discussionTimeMinutes": 10,
-  "eliminateLimitVote": 2
+  "eliminateLimitVote": 1
 }
