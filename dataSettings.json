@@ -3,6 +3,6 @@
   "aliasGroup": "tdtchannels",
   "muteNewUserSeconds": 60,
   "deleteWelcomeMinutes": 3,
-  "discussionTimeMinutes": 1,
-  "eliminateLimitVote": 2
+  "discussionTimeMinutes": 2,
+  "eliminateLimitVote": 3
 }
