@@ -52,7 +52,7 @@
       "bot responde atresmedia"
     ],
     "value": [
-      "Las emisiones de Atresmedia (Antena 3, La Sexta, ...) no se pueden visualizar a través de la lista M3U8 por que lo impiden las mismas cadenas de TV. Para poder visualizarlos debes utilizar alguna de las siguientes opciones:\nLista M3U8+MPD: https://www.tdtchannels.com/lists/tv_mpd.m3u8 (No funciona en todos los reproductores)\n- Aplicación Android Oficial: www.tdtchannels.com/android\n - Wiseplay (Motor Exoplayer): https://www.tdtchannels.com/lists/tv.w3u"
+      "Las emisiones de Atresmedia (Antena 3, La Sexta, ...) no se pueden visualizar a través de la lista M3U8 por que lo impiden las mismas cadenas de TV.\n\nPara poder visualizarlos debes utilizar alguna de las siguientes opciones:\n\n- Lista M3U8+MPD: https://www.tdtchannels.com/lists/tv_mpd.m3u8 (No funciona en todos los reproductores)\n- Aplicación Android Oficial: www.tdtchannels.com/android\n- Wiseplay (Motor Exoplayer): https://www.tdtchannels.com/lists/tv.w3u"
     ],
     "shouldDeleteProvoker": true
   },
