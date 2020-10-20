@@ -86,6 +86,15 @@
   },
   {
     "key": [
+      "bot responde chromecast"
+    ],
+    "value": [
+      "La aplicación oficial de TDTChannels no es compatible con Chromecast. Está prevista la implementación pero no tiene fecha de salida. Parece algo sencillo a ojos de usuario, pero a ojos del desarrollador es bastante dificil de implementar y que funcione correctamente para todos.\nMientras tanto puedes utilizar alternativas como por ejemplo Wiseplay."
+    ],
+    "shouldDeleteProvoker": true
+  },
+  {
+    "key": [
       "bot responde peticion"
     ],
     "value": [
