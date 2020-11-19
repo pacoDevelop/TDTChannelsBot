@@ -14,7 +14,16 @@
       "bot responde listas"
     ],
     "value": [
-      "Aquí puedes encontrar las listas del proyecto https://www.tdtchannels.com/listas, junto a una explicación para qué sirve cada una.\nRecordamos que la mejor forma de visualizar los canales del proyecto es a través de las aplicaciones oficiales para Android https://www.tdtchannels.com/android y iPhone https://www.tdtchannels.com/iphone.\n Si deseas saber más información acerca de qué canales pueden reproducirse en qué plataformas, puedes consultar https://tdtchannels.com/status."
+      "Aquí puedes encontrar las listas del proyecto https://www.tdtchannels.com/listas, junto a una explicación para qué sirve y dónde reproducir cada una.\nRecordamos que la mejor forma de visualizar los canales del proyecto es a través de las aplicaciones oficiales Android https://www.tdtchannels.com/android y iPhone https://www.tdtchannels.com/iphone.\nMás información acerca de qué canales pueden reproducirse en qué plataformas, consulta https://tdtchannels.com/status."
+    ],
+    "shouldDeleteProvoker": true
+  },
+  {
+    "key": [
+      "bot responde estado"
+    ],
+    "value": [
+      "Información acerca de qué canales pueden reproducirse en qué plataformas, consulta https://tdtchannels.com/status."
     ],
     "shouldDeleteProvoker": true
   },
@@ -49,20 +58,11 @@
   },
   {
     "key": [
+      "bot responde mediaset",
       "bot responde atresmedia"
     ],
     "value": [
-      "Las emisiones de Atresmedia (Antena 3, La Sexta, ...) no se pueden visualizar a través de la lista M3U8 por que lo impiden las mismas cadenas de TV.\nPara poder visualizarlos debes utilizar alguna de las siguientes opciones:\n\n- Lista M3U8+MPD(No funciona en todos los reproductores): https://www.tdtchannels.com/lists/tv_mpd.m3u8\n- Aplicación Android Oficial: www.tdtchannels.com/android\n- Wiseplay (Motor Exoplayer): https://www.tdtchannels.com/lists/tv.w3u\n\nMás información: www.tdtchannels.com/status"
-    ],
-    "shouldDeleteProvoker": true
-  },
-  {
-    "key": [
-      "bot responde problemas mediaset",
-      "bot responde problemas atresmedia"
-    ],
-    "value": [
-      "Las emisiones de Mediaset y/o Atresmedia presentan problemas en ciertas plataformas. Principalmente es debido a un error desde el emisor. Seguramente lo corregirás si retrasas la hora de tu reloj del dispositivo 1 minuto. Previamente asegúrate de comprobar que estuviera en hora. Además puedes revisar https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
+      "Las emisiones de Mediaset y/o Atresmedia sólo se pueden reproducir vía TDTChannels para Android. Comprueba https://tdtchannels.com/status para comprobar el estado de los canales para las plataformas."
     ],
     "shouldDeleteProvoker": true
   },
@@ -89,7 +89,16 @@
       "bot responde chromecast"
     ],
     "value": [
-      "La aplicación oficial de TDTChannels no es compatible con Chromecast. Está prevista la implementación pero no tiene fecha de salida. Parece algo sencillo a ojos de usuario, pero a ojos del desarrollador es bastante dificil de implementar y que funcione correctamente para todos.\nMientras tanto puedes utilizar alternativas como por ejemplo Wiseplay."
+      "La aplicación oficial de TDTChannels es compatible con Chromecast en su versión Beta. Para ello has de ser colaborador, más información en el anclado."
+    ],
+    "shouldDeleteProvoker": true
+  },
+  {
+    "key": [
+      "bot responde colaborar"
+    ],
+    "value": [
+      "Muchas gracias por plantearte colaborar con nosotros!\nAceptamos ayuda en cuanto a responder por Telegram, ayuda técnica en las aplicaciones. Y si no puedes colaborar de esa forma, abrimos la puerta a colaborar con cafés en https://www.buymeacoffee.com/mLaQuay, también puede ser por Paypal, transferencia o criptomonedas. Gracias!"
     ],
     "shouldDeleteProvoker": true
   },
