@@ -152,5 +152,22 @@
     ],
     "level": "user",
     "shouldDeleteProvoker": false
+  },
+  {
+    "key": [
+      "antena3",
+      "telecinco",
+      "fdf",
+      "divinity",
+      "energy",
+      "boing",
+      "cuatro", 
+"lasexta", 
+    ],
+    "value": [
+      "MierdaSet y A3Mierda está jodiendo la marrana con los enlaces(TM). Gracias."
+    ],
+    "level": "user",
+    "shouldDeleteProvoker": false
   }
 ]
