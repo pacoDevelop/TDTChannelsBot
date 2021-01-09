@@ -89,7 +89,7 @@
       "bot responde chromecast"
     ],
     "value": [
-      "La aplicación oficial de TDTChannels es compatible con Chromecast en su versión Beta. Para ello has de ser colaborador, más información en el anclado."
+      "La aplicación oficial de TDTChannels es compatible con Chromecast solo en la app de Android a partir de la versión 2.3.0. Si todavía no tienes la última versión, puedes descargarla desde el siguiente enlace: https://www.tdtchannels.com/android"
     ],
     "shouldDeleteProvoker": true
   },
@@ -121,7 +121,8 @@
       "motos",
       "toros",
       "syfy",
-      "dark"
+      "dark",
+      "iptv"
     ],
     "value": [
       "Se ha detectado un posible mensaje que incumple normas. Reporte enviado a los administradores. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
@@ -162,11 +163,13 @@
       "energy",
       "boing",
       "cuatro", 
-"lasexta", 
-"tele5" 
+      "lasexta", 
+      "tele5",
+      "mediaset",
+      "atresmedia"
     ],
     "value": [
-      "MierdaSet y A3Mierda están jodiendo la marrana con los enlaces(TM). Gracias."
+      "Actualmente los canales de Mediaset y Atresmedia solo están disponibles en la aplicación Android y en las webs oficiales\n Puedes consultar el estado de los canales en el siguiente enlace https://github.com/LaQuay/TDTChannels/blob/master/info_television.md"
     ],
     "level": "user",
     "shouldDeleteProvoker": false
