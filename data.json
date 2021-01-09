@@ -181,7 +181,6 @@
     "value": [
       "En algunos dispositivos de Amazon puede fallar el icono de la aplicación. Este error es externo a TDTChannels y debe ser solucionado por Amazon."
     ],
-    "level": "user",
-    "shouldDeleteProvoker": false
+    "shouldDeleteProvoker": true
   }
 ]
