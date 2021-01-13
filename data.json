@@ -121,8 +121,7 @@
       "motos",
       "toros",
       "syfy",
-      "dark",
-      "iptv"
+      "dark"
     ],
     "value": [
       "Se ha detectado un posible mensaje que incumple normas. Reporte enviado a los administradores. En TDTChannels estamos totalmente en contra de la piratería. En el anclado tienes más información. Gracias."
@@ -169,7 +168,7 @@
       "atresmedia"
     ],
     "value": [
-      "Actualmente los canales de Mediaset y Atresmedia solo están disponibles en la aplicación Android y en las webs oficiales\n Puedes consultar el estado de los canales en el siguiente enlace https://github.com/LaQuay/TDTChannels/blob/master/info_television.md"
+      "Actualmente los canales de Mediaset y Atresmedia solo están disponibles en la aplicación Android y en las webs oficiales.\nPuedes consultar el estado de los canales en el siguiente enlace https://github.com/LaQuay/TDTChannels/blob/master/info_television.md"
     ],
     "level": "user",
     "shouldDeleteProvoker": false
