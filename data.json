@@ -111,6 +111,16 @@
     ],
     "shouldDeleteProvoker": true
   },
+{
+    "key": [
+      "bot responde vpn",
+      "bot responde VPN"
+    ],
+    "value": [
+      "Si estás fuera de España para poder disfrutar de todos los canales debes usar una VPN de España.\n\n Para más información usa la lupa del grupo buscando por vpn y encontrará algunas vpn que usan los usuarios del grupo."
+    ],
+    "shouldDeleteProvoker": true
+  },
   {
     "key": [
       "laliga",
