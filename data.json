@@ -191,5 +191,11 @@
       "En algunos dispositivos de Amazon puede fallar el icono de la aplicación. Este error es externo a TDTChannels y debe ser solucionado por Amazon."
     ],
     "shouldDeleteProvoker": true
+  },
+  {
+    "regex": [
+      "/g+i+v+e+a+w+a+y+/i"
+    ],
+    "shouldDeleteProvoker": false
   }
 ]
