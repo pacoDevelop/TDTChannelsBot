@@ -196,6 +196,6 @@
     "regex": [
       "/g+i+v+e+a+w+a+y+/i"
     ],
-    "shouldDeleteProvoker": false
+    "shouldDeleteProvoker": true
   }
 ]
