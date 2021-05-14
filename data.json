@@ -194,13 +194,13 @@
   },
   {
     "regex": [
-      "/g+i+v+e+a+w+a+y+/im",
-      "/m+u+s+k+/im",
-      "/b+i+t+c+o+i+n+/im",
-      "/e+t+h+e+r+e+u+m+/im", 
-      "/🚀+/im",
-      "/hornsbytrade/im",
-      "/jameshornsby/im"
+      "/g+i+v+e+a+w+a+y+/i",
+      "/m+u+s+k+/i",
+      "/b+i+t+c+o+i+n+/i",
+      "/e+t+h+e+r+e+u+m+/i", 
+      "/🚀+/i",
+      "/hornsbytrade/i",
+      "/jameshornsby/i"
     ],
     "shouldDeleteProvoker": true
   }
