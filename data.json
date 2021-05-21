@@ -95,7 +95,8 @@
   },
   {
     "key": [
-      "bot responde colaborar"
+      "bot responde colaborar",
+      "bot responde colabora"
     ],
     "value": [
       "Muchas gracias por plantearte colaborar con nosotros!\nAceptamos ayuda en cuanto a responder por Telegram, ayuda técnica en las aplicaciones. Y si no puedes colaborar de esa forma, abrimos la puerta a colaborar con cafés en https://www.buymeacoffee.com/mLaQuay, también puede ser por Paypal, transferencia o criptomonedas. Gracias!"
@@ -113,7 +114,6 @@
   },
 {
     "key": [
-      "bot responde vpn",
       "bot responde VPN"
     ],
     "value": [
