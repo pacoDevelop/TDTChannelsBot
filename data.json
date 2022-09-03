@@ -203,7 +203,8 @@
       "/🚀+/i",
       "/hornsbytrade/i",
       "/jameshornsby/i",
-      "/tiktok\\.com\\//i"
+      "/tiktok\\.com\\//i",
+      "/cutt\\./i
     ],
     "shouldDeleteProvoker": true
   }
