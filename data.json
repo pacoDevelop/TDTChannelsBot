@@ -206,7 +206,8 @@
       "/tiktok\\.com\\//i",
       "/cutt\\./i",
       "/💰/i",
-      "/tinyurl\\./i"
+      "/tinyurl\\./i",
+      "/Capital Hub/i
     ],
     "shouldDeleteProvoker": true
   }
