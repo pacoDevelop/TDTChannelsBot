@@ -207,7 +207,14 @@
       "/cutt\\./i",
       "/💰/i",
       "/tinyurl\\./i",
-      "/Capital Hub/i"
+      "/Capital Hub/i",
+      "/Capital-Hub/i",
+      "/Cripto/i",
+      "/Crypto/i",
+      "/Mining/i",
+      "/trading/i,
+      "/kyries/i",
+      "/Ltd/i"
     ],
     "shouldDeleteProvoker": true
   }
